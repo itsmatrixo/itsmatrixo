@@ -1,4 +1,4 @@
-## # 👋 Hey, I'm Fitco
+## 👋 Hey, I'm Fitco
 
 Not a professional developer just a creative guy building random stuff for fun.
 
